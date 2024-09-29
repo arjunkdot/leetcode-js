@@ -9,7 +9,7 @@ Recall that arr is a mountain array if and only if:
   `arr[0] < arr[1] < ... < arr[i - 1] < arr[i]`
   `arr[i] > arr[i + 1] > ... > arr[arr.length - 1]`
 
-![alt text](image.jpg "Valid Mountain Array")
+![alt text](image.png "Valid Mountain Array")
 
 ## Example 1:
 
