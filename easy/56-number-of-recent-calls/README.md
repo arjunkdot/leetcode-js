@@ -1,4 +1,4 @@
-Number of Recent Calls
+# Number of Recent Calls
 
 You have a RecentCounter class which counts the number of recent requests within a certain time frame.
 
